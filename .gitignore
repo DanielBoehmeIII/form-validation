@@ -1,2 +1,7 @@
 node_modules
 dist
+webpack.common.js
+webpack.dev.js
+webpack.prod.js
+package.json
+package-lock.json
